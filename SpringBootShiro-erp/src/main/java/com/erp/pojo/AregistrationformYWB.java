@@ -5,7 +5,7 @@ public class AregistrationformYWB {
 	private String Productname;//产品名字
 	private String Productclassification;//产品分类编号
 	private int Productlevel;//产品级别编号
-	private String manufacturer;//产品制造商
+	private String manufacturer;//产品制造商111
 	private int Unitmeasurement;//计量单位
 	private int Measuredvalue;//计量值
 	private String guaranteedate;//保质日期

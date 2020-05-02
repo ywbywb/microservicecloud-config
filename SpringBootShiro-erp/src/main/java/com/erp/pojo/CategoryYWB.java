@@ -2,7 +2,7 @@ package com.erp.pojo;
 //产品类别表
 public class CategoryYWB {
 	private int categoryid; //产品类别id
-	private String categoryname; //产品类别名称
+	private String categoryname; //产品类别名称111
 	public int getCategoryid() {
 		return categoryid;
 	}
