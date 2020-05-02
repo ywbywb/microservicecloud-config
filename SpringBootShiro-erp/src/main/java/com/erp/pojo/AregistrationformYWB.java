@@ -1,7 +1,7 @@
 package com.erp.pojo;
 //产品登记实体类
 public class AregistrationformYWB {
-	private int ProductID;//产品编号
+	private int ProductID;//产品编号1111
 	private String Productname;//产品名字
 	private String Productclassification;//产品分类编号
 	private int Productlevel;//产品级别编号
