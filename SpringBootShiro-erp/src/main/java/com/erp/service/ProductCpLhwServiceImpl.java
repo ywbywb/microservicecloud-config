@@ -8,7 +8,6 @@ import org.springframework.transaction.annotation.Transactional;
 
 import com.erp.mapper.ProductCpLhwmapper;
 import com.erp.pojo.AregistrationformYWB;
-import com.erp.pojo.aregistrationform;
 @Transactional
 @Service
 public class ProductCpLhwServiceImpl implements ProductCpLhwService{
